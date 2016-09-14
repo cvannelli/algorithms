@@ -1,0 +1,6 @@
+Algorithm changedp:
+[2, 1, 0, 1]
+4
+Algorithm changegreedy:
+[2, 1, 0, 1]
+4
